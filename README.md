@@ -16,5 +16,5 @@ Hello, I'm a  16 year old programmer from Missouri that loves to Open Source pro
 ## Contact Me 📱
 **Website - [rustybalboa.dev](https://rustybalboa.dev)** <br>
 **Twitter - [@rustybalboadev](https://twitter.com/rustybalboadev)** <br>
-**Discord - Rusty_Balboa#0666** <br>
+**Discord - Rusty_Balboa#6660**<br>
 **Email - [rustybalboadev@gmail.com](mailto:rustybalboadev@gmail.com)** <br>
