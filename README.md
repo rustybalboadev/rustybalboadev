@@ -1,9 +1,13 @@
 <p align='center'>
   <img src='https://pbs.twimg.com/profile_images/1236555377405095936/eQMMQBsA_x96.png'>
 </p>
+<p align='center'>
+  <img src='https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png' width="125" height="125">
+  <img src='https://i.imgur.com/vJfIiId.png?sanitize=false' width='125' height='125'>
+</p>
 
 ## About Me 📝
-Hello, I'm a  16 year old programmer from Missouri that loves to Open Source projects to help others learn.
+Hello, I'm a  16 year old programmer from Missouri that makes software for others to use.
 
 ## Projects 🖥️ </>
 
@@ -13,10 +17,6 @@ Hello, I'm a  16 year old programmer from Missouri that loves to Open Source pro
 **[EXIFExtractor](https://github.com/RustyBalboadev/EXIFExtractor) - Extract EXIF Data in Images** <br>
 **[goStock](https://github.com/RustyBalboadev/goStock) - Track Stocks in the Command Line using goStock** <br>
 **[yoink.rip](https://yoink.rip) - Grabify Remake With More Realistic Domains** <br>
-
-## Top Languages 💭
-1. Python
-2. Go
 
 ## WIP Projects 🕒
 1. **[yoink.rip](https://yoink.rip) - IP Grabber**
