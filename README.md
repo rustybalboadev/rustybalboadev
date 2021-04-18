@@ -7,7 +7,7 @@
 </p>
 
 ## About Me 📝
-Hello, I'm a  16 year old programmer from Missouri that makes software for others to use.
+Hello! I'm a 16 year old highschool programmer from Missouri that has a deep interest in Computer Science and writing software for others to use. 
 
 ## Projects 🖥️ </>
 
