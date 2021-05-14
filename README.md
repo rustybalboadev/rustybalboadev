@@ -21,5 +21,5 @@ Hello! I'm a 16 year old highschool programmer from Missouri that has a deep int
 ## Contact Me 📱
 **Website - [rustybalboa.dev](https://rustybalboa.dev)** <br>
 **Twitter - [@rustybalboadev](https://twitter.com/rustybalboadev)** <br>
-**Discord - Rusty_Balboa#0666**<br>
+**Discord - rustybalboadev#0666**<br>
 **Email - [rustybalboadev@gmail.com](mailto:rustybalboadev@gmail.com)** <br>
