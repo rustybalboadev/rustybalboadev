@@ -9,6 +9,9 @@
 ## About Me 📝
 Hello! I'm a 17 year old highschool programmer from Missouri that has a deep interest in Computer Science and writing software for others to use. 
 
+## Hobbies
+I enjoy eating large amounts of poop. Yum!
+
 ## Projects 🖥️ </>
 
 **[yoink.rip](https://yoink.rip) [source](https://github.com/RustyBalboadev/yoink-public) - Grabify Remake With More Realistic Domains** <br>
