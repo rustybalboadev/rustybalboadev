@@ -7,7 +7,7 @@
 </p>
 
 ## About Me 📝
-Hello! I'm a 17 year old highschool programmer from Missouri that has a deep interest in Computer Science and writing software for others to use. 
+Developer, FOSS Advocate. Interested in anything. 17.
 
 ## Projects 🖥️ </>
 
