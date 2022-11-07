@@ -7,11 +7,11 @@
 </p>
 
 ## About Me 📝
-Developer, FOSS Advocate. Interested in anything. 17.
+Developer, FOSS Advocate. Interested in anything. 18.
 
 ## Projects 🖥️ </>
 
-**[yoink.rip](https://yoink.rip) [source](https://github.com/RustyBalboadev/yoink-public) - Grabify Remake With More Realistic Domains** <br>
+**[Yoink](https://github.com/RustyBalboadev/yoink-public) - Grabify Remake With More Realistic Domains** <br>
 **[CLI-Down](https://github.com/rustybalboadev/CLI-Down) - Download images and videos from various websites through the command line** <br>
 **[pyMusic-Box](https://github.com/rustybalboadev/pyMusic-Box) - Get your week of music into a GitHub Gist** <br>
 **[Discord-Raid-Tool](https://github.com/RustyBalboadev/Discord-Raid-Tool) - Use Discord Tokens to Spam A Channel** <br>
@@ -19,7 +19,6 @@ Developer, FOSS Advocate. Interested in anything. 17.
 **[goStock](https://github.com/RustyBalboadev/goStock) - Track Stocks in the Command Line using goStock** <br>
 
 ## Contact Me 📱
-**Website - [rustybalboa.dev](https://rustybalboa.dev)** <br>
+**Website - [maddoxnorman.com](https://rustybalboa.dev)** <br>
 **Twitter - [@rustybalboadev](https://twitter.com/rustybalboadev)** <br>
-**Discord - rustybalboadev#0666**<br>
-**Email - [rustybalboadev@gmail.com](mailto:rustybalboadev@gmail.com)** <br>
+**Email - [me@maddoxnorman.com](mailto:rustybalboadev@gmail.com)** <br>
