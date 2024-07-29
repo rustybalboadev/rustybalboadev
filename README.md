@@ -1,10 +1,6 @@
 <p align='center'>
   <img src='https://pbs.twimg.com/profile_images/1236555377405095936/eQMMQBsA_x96.png'>
 </p>
-<p align='center'>
-  <img src='https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png' width="125" height="125">
-  <img src='https://i.imgur.com/vJfIiId.png?sanitize=false' width='125' height='125'>
-</p>
 
 ## About Me 📝
 Developer, FOSS Advocate. Interested in anything. 20.
