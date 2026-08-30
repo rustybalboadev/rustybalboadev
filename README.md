@@ -3,7 +3,7 @@
 </p>
 
 ## About Me 📝
-Developer, FOSS Advocate. Interested in anything. 20.
+Developer, FOSS Advocate, Passionate about creating things with code, exploring new tools, and understanding how technology works behind the scenes.
 
 ## Projects 🖥️ </>
 
@@ -15,6 +15,6 @@ Developer, FOSS Advocate. Interested in anything. 20.
 **[goStock](https://github.com/RustyBalboadev/goStock) - Track Stocks in the Command Line using goStock** <br>
 
 ## Contact Me 📱
-**Website - [maddoxnorman.com](https://rustybalboa.dev)** <br>
+**Website - [maddoxnorman.com](https://maddoxnorman.dev)** <br>
 **Twitter - [@rustybalboadev](https://twitter.com/rustybalboadev)** <br>
-**Email - [me@maddoxnorman.com](mailto:rustybalboadev@gmail.com)** <br>
+**Email - [maddoxnormandev@gmail.com](mailto:maddoxnormandev@gmail.com)** <br>
