@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img src="./assets/header-dark.svg" alt="RustyBalboaDev — Software Developer" width="100%">
+  <img src="./assets/header-dark.svg" alt="RustyBalboaDev — Software Developer" width="1000" height="270">
 </picture>
 
 <h3 align="center">
@@ -58,15 +58,12 @@
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://last-fm-track-ochre.vercel.app/api/now-playing?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://last-fm-track-ochre.vercel.app/api/now-playing?theme=light">
-    <img
-      src="https://last-fm-track-ochre.vercel.app/api/now-playing?theme=dark"
-      alt="Now playing on Last.fm"
-      width="88%"
-    >
-  </picture>
+  <img
+    src="https://last-fm-track-ochre.vercel.app/api/now-playing"
+    alt="Now playing on Last.fm"
+    width="810"
+    height="203"
+  >
 </p>
 
 <h3 align="center">What I've Been Listening to This Week</h3>
@@ -76,13 +73,10 @@
 <br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://last-fm-track-ochre.vercel.app/api/top-tracks?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://last-fm-track-ochre.vercel.app/api/top-tracks?theme=light">
-    <img
-      src="https://last-fm-track-ochre.vercel.app/api/top-tracks?theme=dark"
-      alt="Top tracks from the last seven days"
-      width="88%"
-    >
-  </picture>
+  <img
+    src="https://last-fm-track-ochre.vercel.app/api/top-tracks"
+    alt="Top tracks from the last seven days"
+    width="774"
+    height="605"
+  >
 </p>
