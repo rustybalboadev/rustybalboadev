@@ -21,12 +21,21 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3 align="center">🧲 NovaTorrent</h3>
+<p align="center">A fast, modern BitTorrent client with built-in media-streaming.</p>
+<p align="center">
+<a href="https://github.com/rustybalboadev/NovaTorrent"><b>View Repository →</b></a>
+</p>
+</td>
+<td width="50%" valign="top">
 <h3 align="center">🔍 Yoink.Rip</h3>
 <p align="center">Grabify remake with more realistic domains.</p>
 <p align="center">
 <a href="https://github.com/rustybalboadev/yoink-public"><b>View Repository →</b></a>
 </p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3 align="center">📈 goStock</h3>
 <p align="center">A Go tool for checking and tracking stock information from the command line.</p>
@@ -34,20 +43,11 @@
 <a href="https://github.com/rustybalboadev/goStock"><b>View Repository →</b></a>
 </p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3 align="center">📥 CLI-Down</h3>
 <p align="center">Download images and videos from various websites directly from your terminal.</p>
 <p align="center">
 <a href="https://github.com/rustybalboadev/CLI-Down"><b>View Repository →</b></a>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">🖼️ EXIFExtractor</h3>
-<p align="center">Extract and inspect EXIF metadata embedded inside image files.</p>
-<p align="center">
-<a href="https://github.com/rustybalboadev/EXIFExtractor"><b>View Repository →</b></a>
 </p>
 </td>
 </tr>
